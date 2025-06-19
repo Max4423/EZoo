@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\miksi\\Desktop\\C#\\EZoo\\EZoo\\EZoo.csproj": {}
+    "C:\\Users\\miksi\\Documents\\Visual Studio 2022\\Projects\\EZoo\\EZoo\\EZoo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\miksi\\Desktop\\C#\\EZoo\\EZoo\\EZoo.csproj": {
+    "C:\\Users\\miksi\\Documents\\Visual Studio 2022\\Projects\\EZoo\\EZoo\\EZoo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miksi\\Desktop\\C#\\EZoo\\EZoo\\EZoo.csproj",
+        "projectUniqueName": "C:\\Users\\miksi\\Documents\\Visual Studio 2022\\Projects\\EZoo\\EZoo\\EZoo.csproj",
         "projectName": "EZoo",
-        "projectPath": "C:\\Users\\miksi\\Desktop\\C#\\EZoo\\EZoo\\EZoo.csproj",
+        "projectPath": "C:\\Users\\miksi\\Documents\\Visual Studio 2022\\Projects\\EZoo\\EZoo\\EZoo.csproj",
         "packagesPath": "C:\\Users\\miksi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miksi\\Desktop\\C#\\EZoo\\EZoo\\obj\\",
+        "outputPath": "C:\\Users\\miksi\\Documents\\Visual Studio 2022\\Projects\\EZoo\\EZoo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

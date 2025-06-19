@@ -8,13 +8,13 @@ namespace EZoo
 {
 	internal class Menu
 	{
-		int maxMenuItemId = 4;
 		int choice = 0;
 		List<string> menuItems = new List<string>
 				{
 			"Add new animal",
 			"Feed animal",
 			"Show animals list",
+			"Swim(only for fish)",
 			"Exit"
 		};
 
@@ -24,7 +24,7 @@ namespace EZoo
 			while (choice == 0)
 			{
 				string input = Console.ReadLine();
-				if (!int.TryParse(input, out choice) || choice <= 0 || choice > maxMenuItemId)
+				if (!int.TryParse(input, out choice) || choice <= 0 || choice > menuItems.Count)
 				{
 					Console.ForegroundColor = ConsoleColor.Yellow;
 					Console.Write("Reenter your choice:");
@@ -65,9 +65,13 @@ namespace EZoo
 					Zoo.ShowAnimalsList();
 					break;
 				case 4:
+					Zoo.Swim();
+					break;
+				case 5:
 					Console.WriteLine("Program terminating...");
 					Environment.Exit(1);
 					break;
+
 				default:
 					break;
 

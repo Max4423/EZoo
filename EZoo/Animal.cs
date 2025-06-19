@@ -100,7 +100,7 @@ namespace EZoo
 
 		}
 
-		public void ShowInfo()
+		virtual public void ShowInfo()
 		{
 			Console.WriteLine($"Name: {Name} Age: {Age} EnergyLevel: {EnergyLevel} Healthlevel: {Healthlevel}, Sound: {AnimalSound}");
 		}

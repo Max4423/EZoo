@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\miksi\\Desktop\\C#\\EZoo\\",
+  "WorkspaceRootPath": "C:\\Users\\miksi\\Documents\\Visual Studio 2022\\Projects\\EZoo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{800EC6AD-7AF9-48B3-AAF2-15E946155272}|EZoo\\EZoo.csproj|c:\\users\\miksi\\desktop\\c#\\ezoo\\ezoo\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{800EC6AD-7AF9-48B3-AAF2-15E946155272}|EZoo\\EZoo.csproj|c:\\users\\miksi\\documents\\visual studio 2022\\projects\\ezoo\\ezoo\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{800EC6AD-7AF9-48B3-AAF2-15E946155272}|EZoo\\EZoo.csproj|solutionrelative:ezoo\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{800EC6AD-7AF9-48B3-AAF2-15E946155272}|EZoo\\EZoo.csproj|c:\\users\\miksi\\desktop\\c#\\ezoo\\ezoo\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{800EC6AD-7AF9-48B3-AAF2-15E946155272}|EZoo\\EZoo.csproj|c:\\users\\miksi\\documents\\visual studio 2022\\projects\\ezoo\\ezoo\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800EC6AD-7AF9-48B3-AAF2-15E946155272}|EZoo\\EZoo.csproj|solutionrelative:ezoo\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800EC6AD-7AF9-48B3-AAF2-15E946155272}|EZoo\\EZoo.csproj|c:\\users\\miksi\\documents\\visual studio 2022\\projects\\ezoo\\ezoo\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{800EC6AD-7AF9-48B3-AAF2-15E946155272}|EZoo\\EZoo.csproj|solutionrelative:ezoo\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{800EC6AD-7AF9-48B3-AAF2-15E946155272}|EZoo\\EZoo.csproj|c:\\users\\miksi\\desktop\\c#\\ezoo\\ezoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{800EC6AD-7AF9-48B3-AAF2-15E946155272}|EZoo\\EZoo.csproj|solutionrelative:ezoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{800EC6AD-7AF9-48B3-AAF2-15E946155272}|EZoo\\EZoo.csproj|c:\\users\\miksi\\documents\\visual studio 2022\\projects\\ezoo\\ezoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800EC6AD-7AF9-48B3-AAF2-15E946155272}|EZoo\\EZoo.csproj|solutionrelative:ezoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{800EC6AD-7AF9-48B3-AAF2-15E946155272}|EZoo\\EZoo.csproj|c:\\users\\miksi\\desktop\\c#\\ezoo\\ezoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{800EC6AD-7AF9-48B3-AAF2-15E946155272}|EZoo\\EZoo.csproj|solutionrelative:ezoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{800EC6AD-7AF9-48B3-AAF2-15E946155272}|EZoo\\EZoo.csproj|c:\\users\\miksi\\documents\\visual studio 2022\\projects\\ezoo\\ezoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800EC6AD-7AF9-48B3-AAF2-15E946155272}|EZoo\\EZoo.csproj|solutionrelative:ezoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,50 +56,65 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Zoo.cs",
-              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\EZoo\\EZoo\\Zoo.cs",
+              "DocumentMoniker": "C:\\Users\\miksi\\Documents\\Visual Studio 2022\\Projects\\EZoo\\EZoo\\Zoo.cs",
               "RelativeDocumentMoniker": "EZoo\\Zoo.cs",
-              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\EZoo\\EZoo\\Zoo.cs*",
-              "RelativeToolTip": "EZoo\\Zoo.cs*",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFoAAAAEAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\miksi\\Documents\\Visual Studio 2022\\Projects\\EZoo\\EZoo\\Zoo.cs",
+              "RelativeToolTip": "EZoo\\Zoo.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAQwKIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-19T10:04:20.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\EZoo\\EZoo\\Program.cs",
-              "RelativeDocumentMoniker": "EZoo\\Program.cs",
-              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\EZoo\\EZoo\\Program.cs",
-              "RelativeToolTip": "EZoo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "C:\\Users\\miksi\\Documents\\Visual Studio 2022\\Projects\\EZoo\\EZoo\\Fish.cs",
+              "RelativeDocumentMoniker": "EZoo\\Fish.cs",
+              "ToolTip": "C:\\Users\\miksi\\Documents\\Visual Studio 2022\\Projects\\EZoo\\EZoo\\Fish.cs",
+              "RelativeToolTip": "EZoo\\Fish.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T07:58:43.241Z"
+              "WhenOpened": "2025-06-19T19:38:22.199Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\EZoo\\EZoo\\Animal.cs",
+              "DocumentMoniker": "C:\\Users\\miksi\\Documents\\Visual Studio 2022\\Projects\\EZoo\\EZoo\\Animal.cs",
               "RelativeDocumentMoniker": "EZoo\\Animal.cs",
-              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\EZoo\\EZoo\\Animal.cs",
+              "ToolTip": "C:\\Users\\miksi\\Documents\\Visual Studio 2022\\Projects\\EZoo\\EZoo\\Animal.cs",
               "RelativeToolTip": "EZoo\\Animal.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAGYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T08:49:47.841Z"
+              "WhenOpened": "2025-06-19T08:49:47.841Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\miksi\\Desktop\\C#\\EZoo\\EZoo\\Menu.cs",
+              "DocumentMoniker": "C:\\Users\\miksi\\Documents\\Visual Studio 2022\\Projects\\EZoo\\EZoo\\Menu.cs",
               "RelativeDocumentMoniker": "EZoo\\Menu.cs",
-              "ToolTip": "C:\\Users\\miksi\\Desktop\\C#\\EZoo\\EZoo\\Menu.cs",
+              "ToolTip": "C:\\Users\\miksi\\Documents\\Visual Studio 2022\\Projects\\EZoo\\EZoo\\Menu.cs",
               "RelativeToolTip": "EZoo\\Menu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwEQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-19T08:08:42.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miksi\\Documents\\Visual Studio 2022\\Projects\\EZoo\\EZoo\\Program.cs",
+              "RelativeDocumentMoniker": "EZoo\\Program.cs",
+              "ToolTip": "C:\\Users\\miksi\\Documents\\Visual Studio 2022\\Projects\\EZoo\\EZoo\\Program.cs",
+              "RelativeToolTip": "EZoo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T07:58:43.241Z",
               "EditorCaption": ""
             }
           ]

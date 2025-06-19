@@ -7,13 +7,30 @@ using System.Threading.Tasks;
 
 namespace EZoo
 {
+
 	internal class Zoo
 	{
 		static List<Animal> animals = new List<Animal>();
+		static List<string> animalTypes = new List<string>() { "Animal", "Fish" };
 
 		public static void AddAnimal()
 		{
+			int type;
+			while (true)
+			{
+				for (int i = 0; i < animalTypes.Count; i++)
+				{
+					Console.WriteLine($"[{i}] {animalTypes[i]}");
+				}
+				Console.Write("Enter animal type id: ");
+
+
+				if (int.TryParse(Console.ReadLine(), out type) && type >= 0 && type < animalTypes.Count)
+					break;
+				Console.WriteLine($"Animal type  cannot be empty or < 0 or > {animalTypes.Count} Try again.");
+			}
 			string name;
+
 			while (true)
 			{
 				Console.Write("Enter animal name: ");
@@ -59,11 +76,27 @@ namespace EZoo
 					break;
 				Console.WriteLine("Sound cannot be empty. Try again.");
 			}
+			if (type == 0)
+			{
+				animals.Add(new Animal(name, age, energyLevel, healthLevel, animalSound));
 
-			animals.Add(new Animal(name, age, energyLevel, healthLevel, animalSound));
+			}
+
+			if (type == 1)
+			{
+				int swimmingSpeed;
+				while (true)
+				{
+					Console.Write("Enter fish swimming speed: ");
+					if (int.TryParse(Console.ReadLine(), out swimmingSpeed) && swimmingSpeed >= 0 && swimmingSpeed <= 100)
+						break;
+					Console.WriteLine("Invalid swimming speed. Enter a number between 0 and 100.");
+				}
+				animals.Add(new Fish(name, age, energyLevel, healthLevel, animalSound, swimmingSpeed));
+			}
 			Console.WriteLine("Animal added successfully!");
 
-			animals[0].ShowInfo();
+			animals[animals.Count - 1].ShowInfo();
 
 		}
 
@@ -113,11 +146,42 @@ namespace EZoo
 			else
 				Console.WriteLine("Zoo is empty");
 		}
+
+		public static void Swim()
+		{
+			int choice;
+			List<Fish> fish = new List<Fish>();
+			for (int i = 0; i < animals.Count; i++)
+			{
+				if (animals[i] is Fish)
+				{
+					fish.Add((Fish)animals[i]);
+				}
+			}
+			if (fish.Count == 0)
+			{
+				Console.WriteLine("There is not available fish!");
+				return;
+			}
+
+			Console.WriteLine("Available fish:");
+			for (int i = 0; i < fish.Count; i++)
+			{
+				Console.WriteLine($"[{i}]. {fish[i].Name}");
+			}
+			Console.Write("Enter your choice: ");
+
+			while (true)
+			{
+				if (int.TryParse(Console.ReadLine(), out choice) && choice >=0 && choice < fish.Count)
+				{
+					break;
+				}
+				Console.WriteLine("Invalid choice. Please enter a fish from list:");
+			}
+
+			fish[choice].Swim();
+		}
 	}
 }
 
-
-//1.Add new animal
-//2.Feed animal
-//3. Show animals list
-//4. Exit

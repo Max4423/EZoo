@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EZoo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+245b0b6b1a5f35add7f9771eda14c729f280aa66")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35c5b5f4d339d12370f4c180d493857bfd818fa9")]
 [assembly: System.Reflection.AssemblyProductAttribute("EZoo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EZoo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

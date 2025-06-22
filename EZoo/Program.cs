@@ -9,7 +9,9 @@
 			while(true)
 			{ 
 			menu.DisplayMenu();
+
 			menu.GetUserChoice();
+
 			menu.ProcessChoice();
 }
 		}

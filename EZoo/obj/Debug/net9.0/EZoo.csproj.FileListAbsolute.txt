@@ -1,0 +1,30 @@
+C:\Users\miksi\Desktop\C#\EZoo\EZoo\bin\Debug\net9.0\EZoo.exe
+C:\Users\miksi\Desktop\C#\EZoo\EZoo\bin\Debug\net9.0\EZoo.deps.json
+C:\Users\miksi\Desktop\C#\EZoo\EZoo\bin\Debug\net9.0\EZoo.runtimeconfig.json
+C:\Users\miksi\Desktop\C#\EZoo\EZoo\bin\Debug\net9.0\EZoo.dll
+C:\Users\miksi\Desktop\C#\EZoo\EZoo\bin\Debug\net9.0\EZoo.pdb
+C:\Users\miksi\Desktop\C#\EZoo\EZoo\obj\Debug\net9.0\EZoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Desktop\C#\EZoo\EZoo\obj\Debug\net9.0\EZoo.AssemblyInfoInputs.cache
+C:\Users\miksi\Desktop\C#\EZoo\EZoo\obj\Debug\net9.0\EZoo.AssemblyInfo.cs
+C:\Users\miksi\Desktop\C#\EZoo\EZoo\obj\Debug\net9.0\EZoo.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Desktop\C#\EZoo\EZoo\obj\Debug\net9.0\EZoo.sourcelink.json
+C:\Users\miksi\Desktop\C#\EZoo\EZoo\obj\Debug\net9.0\EZoo.dll
+C:\Users\miksi\Desktop\C#\EZoo\EZoo\obj\Debug\net9.0\refint\EZoo.dll
+C:\Users\miksi\Desktop\C#\EZoo\EZoo\obj\Debug\net9.0\EZoo.pdb
+C:\Users\miksi\Desktop\C#\EZoo\EZoo\obj\Debug\net9.0\EZoo.genruntimeconfig.cache
+C:\Users\miksi\Desktop\C#\EZoo\EZoo\obj\Debug\net9.0\ref\EZoo.dll
+C:\Users\miksi\Documents\Visual Studio 2022\Projects\EZoo\EZoo\bin\Debug\net9.0\EZoo.exe
+C:\Users\miksi\Documents\Visual Studio 2022\Projects\EZoo\EZoo\bin\Debug\net9.0\EZoo.deps.json
+C:\Users\miksi\Documents\Visual Studio 2022\Projects\EZoo\EZoo\bin\Debug\net9.0\EZoo.runtimeconfig.json
+C:\Users\miksi\Documents\Visual Studio 2022\Projects\EZoo\EZoo\bin\Debug\net9.0\EZoo.dll
+C:\Users\miksi\Documents\Visual Studio 2022\Projects\EZoo\EZoo\bin\Debug\net9.0\EZoo.pdb
+C:\Users\miksi\Documents\Visual Studio 2022\Projects\EZoo\EZoo\obj\Debug\net9.0\EZoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksi\Documents\Visual Studio 2022\Projects\EZoo\EZoo\obj\Debug\net9.0\EZoo.AssemblyInfoInputs.cache
+C:\Users\miksi\Documents\Visual Studio 2022\Projects\EZoo\EZoo\obj\Debug\net9.0\EZoo.AssemblyInfo.cs
+C:\Users\miksi\Documents\Visual Studio 2022\Projects\EZoo\EZoo\obj\Debug\net9.0\EZoo.csproj.CoreCompileInputs.cache
+C:\Users\miksi\Documents\Visual Studio 2022\Projects\EZoo\EZoo\obj\Debug\net9.0\EZoo.sourcelink.json
+C:\Users\miksi\Documents\Visual Studio 2022\Projects\EZoo\EZoo\obj\Debug\net9.0\EZoo.dll
+C:\Users\miksi\Documents\Visual Studio 2022\Projects\EZoo\EZoo\obj\Debug\net9.0\refint\EZoo.dll
+C:\Users\miksi\Documents\Visual Studio 2022\Projects\EZoo\EZoo\obj\Debug\net9.0\EZoo.pdb
+C:\Users\miksi\Documents\Visual Studio 2022\Projects\EZoo\EZoo\obj\Debug\net9.0\EZoo.genruntimeconfig.cache
+C:\Users\miksi\Documents\Visual Studio 2022\Projects\EZoo\EZoo\obj\Debug\net9.0\ref\EZoo.dll

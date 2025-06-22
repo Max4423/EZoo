@@ -13,7 +13,7 @@
 			menu.GetUserChoice();
 
 			menu.ProcessChoice();
-}
+}  
 		}
 	}
 }
